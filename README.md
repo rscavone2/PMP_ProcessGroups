@@ -6,7 +6,7 @@ BodiesOfKnowl = ["integration",
                  "scope",
                  "stakeholder",
                  "costs",
-                 "communication",
+                 "communications",
                  "resources",
                  "risks",
                  "quality",
@@ -32,6 +32,7 @@ process_groups = ["initiating",
 # Relationship ?constraints?
 
 # BodiesOfKnowl encompass the processes within process_groups
+    the
 
 # process_groups can occur within multiple BodiesOfKnowl
 
